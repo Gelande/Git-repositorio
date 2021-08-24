@@ -1,0 +1,11 @@
+git init - inicia o processo
+git clone - obtem a estrutura
+git add . - adiciona todos os arquivos
+git add <nome do arquivo> - apenas 1
+git commit -m "mensagem"
+git push - publica alterações
+git pull - baixa alterações
+git merge - juntar Branch
+git status - status
+git log - histórico
+git branch - novo ramo
