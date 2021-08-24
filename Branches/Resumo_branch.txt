@@ -1,0 +1,6 @@
+git branch <nome> - criar
+git checkout <nome> - troca
+git checout -b <nome> - cria e troca de branch
+git branch - lista
+git push origin <nome> envia
+git merge <nome> - mescla alterações de uma branch
