@@ -3,4 +3,5 @@ git checkout <nome> - troca
 git checout -b <nome> - cria e troca de branch
 git branch - lista
 git push origin <nome> envia
-git merge <nome> - mescla alterações de uma branch
+git merge <nome> - mescla alterações de uma branch.
+*Devemos estar na branch de destino para trazer as alterações. 
