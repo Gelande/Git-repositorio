@@ -4,4 +4,7 @@ git checout -b <nome> - cria e troca de branch
 git branch - lista
 git push origin <nome> envia
 git merge <nome> - mescla alterações de uma branch.
-*Devemos estar na branch de destino para trazer as alterações. 
+*Devemos estar na branch de destino para trazer as alterações.
+
+git merge --abort - desfaz(caso tenha feito para a branch errada)
+git diff - mostra a diferença de um commit pra outro. 
